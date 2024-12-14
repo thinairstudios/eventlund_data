@@ -14,10 +14,11 @@
             "Sydskånska Nationen",
             "Västgöta Nation",
             "Göteborgs Nation",
-            "Malmö Nation"
-      ],
-      "requested": [
+            "Malmö Nation",
+            "LEO",
             "AF-Borgen",
             "Canticum Solis Studentkör"
+      ],
+      "requested": [
       ]
 }
